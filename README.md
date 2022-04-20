@@ -1,3 +1,3 @@
 # media-browser
 
-目标做一款 Java 版的 Emby
+一款基于 Spring Boot 开发的媒体服务器软件。
