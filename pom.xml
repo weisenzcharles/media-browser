@@ -8,6 +8,9 @@
         <module>media-browser-api</module>
         <module>media-browser-server</module>
         <module>media-browser-naming</module>
+        <module>media-browser-notifications</module>
+        <module>media-browser-controller</module>
+        <module>media-browser-model</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
